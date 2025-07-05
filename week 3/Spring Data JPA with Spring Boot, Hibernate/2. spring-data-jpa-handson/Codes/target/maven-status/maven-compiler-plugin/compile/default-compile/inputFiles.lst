@@ -1,0 +1,16 @@
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\model\Skill.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\model\Department.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\service\StockService.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\country\Country.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\OrmLearnApplication.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\repository\DepartmentRepository.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\service\SkillService.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\service\CountryService.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\model\Employee.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\country\CountryRepository.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\service\DepartmentService.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\stock\StockRepository.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\stock\Stock.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\repository\EmployeeRepository.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\repository\SkillRepository.java
+C:\Users\NEXT GEN\Desktop\cts_upskill\week 3\Spring Data JPA with Spring Boot, Hibernate\2. spring-data-jpa-handson\Codes\src\main\java\com\example\ormlearn\service\EmployeeService.java

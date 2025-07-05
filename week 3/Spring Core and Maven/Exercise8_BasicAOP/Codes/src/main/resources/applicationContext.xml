@@ -1,0 +1,10 @@
+// Placeholder for applicationContext.xml in Exercise8_BasicAOP
+<aop:aspectj-autoproxy/>
+
+<bean id="loggingAspect" class="com.library.aspect.LoggingAspect"/>
+
+<aop:config>
+    <aop:aspect ref="loggingAspect">
+        <aop:around method="logExecutionTime" pointcut="execution(* com.library..*(..))"/>
+    </aop:aspect>
+</aop:config>
