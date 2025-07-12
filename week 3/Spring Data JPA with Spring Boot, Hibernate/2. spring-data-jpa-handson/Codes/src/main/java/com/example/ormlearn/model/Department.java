@@ -19,4 +19,8 @@ public class Department {
 
     @OneToMany(mappedBy = "department", fetch = FetchType.EAGER)
     private Set<Employee> employeeList;
+
+    public Object getEmployeeList() {
+        throw new UnsupportedOperationException("Not supported yet.");
+    }
 }

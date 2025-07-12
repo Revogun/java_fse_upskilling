@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+           http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd
+           http://www.springframework.org/schema/context
+           http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="dep1" class="com.example.employeeapp.model.Department">
+        <property name="id" value="1"/>
+        <property name="name" value="IT"/>
+    </bean>
+
+    <bean id="dep2" class="com.example.employeeapp.model.Department">
+        <property name="id" value="2"/>
+        <property name="name" value="HR"/>
+    </bean>
+
+    <bean id="emp1" class="com.example.employeeapp.model.Employee">
+        <property name="id" value="101"/>
+        <property name="name" value="Alice"/>
+        <property name="department" ref="dep1"/>
+    </bean>
+
+    <bean id="emp2" class="com.example.employeeapp.model.Employee">
+        <property name="id" value="102"/>
+        <property name="name" value="Bob"/>
+        <property name="department" ref="dep2"/>
+    </bean>
+
+    <bean id="employeeList" class="java.util.ArrayList">
+        <constructor-arg>
+            <list>
+                <ref bean="emp1"/>
+                <ref bean="emp2"/>
+            </list>
+        </constructor-arg>
+    </bean>
+
+    <bean id="departmentList" class="java.util.ArrayList">
+        <constructor-arg>
+            <list>
+                <ref bean="dep1"/>
+                <ref bean="dep2"/>
+            </list>
+        </constructor-arg>
+    </bean>
+</beans>
