@@ -1,0 +1,4 @@
+com\example\userservice\User.class
+com\example\userservice\UserRepository.class
+com\example\userservice\UserController.class
+com\example\userservice\UserServiceApplication.class
